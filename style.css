@@ -63,4 +63,39 @@ main {
 .intro h1,
 .contato h1 {
   font-size: 28px;
-  font-
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.contato ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.contato ul li {
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.contato ul li strong {
+  font-weight: bold;
+}
+
+.contato a {
+  color: var(--azul-mineral);
+  text-decoration: none;
+}
+
+.contato a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: var(--azul-mineral);
+  color: var(--branco);
+  text-align: center;
+  padding: 1em 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
