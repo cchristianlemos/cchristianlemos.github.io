@@ -1,0 +1,66 @@
+/* Arquivo: style.css */
+
+/* Cores */
+:root {
+  --azul-mineral: rgb(104, 143, 149);
+  --dourado: #C9B037;
+  --branco: #ffffff;
+  --cinza-claro: #f5f5f5;
+  --cinza-texto: #333333;
+  --fonte-padrao: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--fonte-padrao);
+  font-size: 16px;
+  background-color: var(--cinza-claro);
+  color: var(--cinza-texto);
+  text-align: justify;
+  line-height: 1.6;
+}
+
+header {
+  background-color: var(--azul-mineral);
+  padding: 20px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+nav a {
+  color: var(--branco);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover,
+nav a.active {
+  background-color: var(--dourado);
+  color: var(--cinza-texto);
+}
+
+main {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.intro h1,
+.contato h1 {
+  font-size: 28px;
+  font-
