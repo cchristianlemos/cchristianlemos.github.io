@@ -1,14 +1,14 @@
 # Christian Lemos - Portfólio Profissional
 
-Bem-vindo ao meu repositório pessoal onde apresento meu currículo e projetos na área de Auditoria Interna e Ciência de Dados.
+Bem-vindo ao meu repositório pessoal onde apresento meu currículo e projetos na área de Auditoria Interna, Governança Corporativa e Ciência de Dados.
 
 ---
 
 ## Sobre mim
 
-- Profissional de Auditoria Interna com experiência em automação de processos e análise de dados.
-- Atuo com ferramentas como Power BI, Python e sistemas de GRC.
-- Apaixonado por inovação, tecnologia e resultados.
+- Profissional de Auditoria Interna com experiência em automação de processos, análise de dados e gestão estratégica.
+- Atuo com ferramentas como Power BI, Python, Oracle PL/SQL e sistemas de GRC (Governança, Risco e Compliance).
+- Apaixonado por inovação, tecnologia e resultados orientados a dados.
 
 ---
 
@@ -22,13 +22,38 @@ Bem-vindo ao meu repositório pessoal onde apresento meu currículo e projetos n
 
 ## Projetos em destaque
 
-### Automação de Processos com Data Analytics e Power BI
-- Implementação de dashboards e integração de dados para otimizar auditorias internas.
-- Resultados: Redução de tempo, maior transparência e agilidade nas análises.
+### 1. Transformação da Auditoria Interna com Power BI – Unimed Fesp (jul a set/2024)
+- Liderança na idealização e implementação de dashboards interativos para visualização e monitoramento estratégico das auditorias internas.
+- Funcionalidades: filtros avançados, descrição detalhada de apontamentos e planos de ação, análise temporal dos status das auditorias.
+- Resultados: maior transparência, controle eficiente de follow-ups, suporte aprimorado à tomada de decisão da alta gestão.
 
-### AudiXpress – Perinity
-- Modernização da gestão de auditorias com sistema automatizado.
-- Resultados: Maior eficiência e controle em auditorias e follow-ups.
+### 2. SustentaFesp – Inovação e Sustentabilidade na Unimed Fesp (mar a ago/2024)
+- Projeto focado na educação corporativa e engajamento dos colaboradores em práticas sustentáveis.
+- Pilares: conscientização ambiental, ações sustentáveis, educação climática, compras sustentáveis e responsabilidade social corporativa.
+- Impacto: aumento do engajamento, alinhamento às diretrizes ESG e fortalecimento da cultura sustentável na empresa.
+
+### 3. Manual Interno do Auditor e Auditado – Unimed Fesp | Perinity GRC (mar a abr/2024)
+- Atualização e padronização das práticas de auditoria interna, com foco na utilização da ferramenta AudiXpress – Perinity GRC.
+- Diretrizes claras para auditores e auditados, alinhadas a normas regulatórias e governança corporativa.
+- Benefícios: maior eficiência operacional, transparência e fortalecimento da gestão de riscos.
+
+### 4. Desenvolvimento da Procedure PR_SGV_CARGA_RESUMO_OCORR_SAC – FIAP (maio a jun/2025)
+- Criação de procedure em Oracle PL/SQL para otimização do processamento de dados do SAC.
+- Resultados: melhoria na automação da análise de ocorrências e suporte à tomada de decisão baseada em dados.
+
+### 5. Análise Estatística de Dados de SAC com Python – FIAP (jun/2025)
+- Implementação de rotinas em Python para análise estatística e visualização de dados do SAC.
+- Geração de histogramas para avaliação de padrões de atendimento e reclamações.
+- Contribuição para a melhoria contínua do atendimento ao cliente.
+
+### 6. Innovation Challenge 2025 – ClickBus (jun/2025)
+- Participação no desafio focado em Data Science para aprimorar a jornada do cliente.
+- Desenvolvimento de soluções para segmentação de perfis de compra, previsão de próximas compras e trechos.
+- Aplicação de metodologias ágeis, arquitetura de soluções e prototipagem.
+
+### 7. Gestão e Monitoramento de Auditorias Internas com Power BI – Unimed Fesp (jul a set/2024)
+- Projeto inovador para visualização estratégica das auditorias internas com dashboards dinâmicos.
+- Impacto direto na governança corporativa, eficiência na gestão e suporte à alta direção.
 
 ---
 
